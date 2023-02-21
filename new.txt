@@ -1,1 +1,6 @@
 hello world
+git commit -m .
+git log
+git add
+git init
+git 
